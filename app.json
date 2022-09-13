@@ -8,7 +8,7 @@
   
 "WELCOME_AND_GOODBYE" :{
     "description" : "IF YOU NEED TO OFF THIS TYPE : false",
-    "required" : true,
+    "required" : false,
   "value" : "true"
     },
   
